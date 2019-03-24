@@ -1,4 +1,7 @@
 # spring-dependencies
 
-# Download Spring dependencies :
+# To download Spring dependencies :
 http://repo.spring.io/release/org/springframework/spring/
+
+Select Version
+
